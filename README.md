@@ -1,4 +1,4 @@
-# Security Tracking System
+# Smart Security Tracking System
 
 A comprehensive Java-based security incident tracking and monitoring system for organizations to report, track, and analyze security events in real-time. The system features QR code-based staff identification, real-time attendance tracking, and automated reporting capabilities.
 
